@@ -1,0 +1,9 @@
+test.fishCode=F001
+test.fishMass=3.4
+test.fishLength=13
+test.fishGender=male
+
+test1.fishCode=F003
+test1.fishMass=4.6
+test1.fishLength=8
+test1.fishGender=female
