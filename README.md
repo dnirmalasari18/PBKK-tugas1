@@ -4,4 +4,5 @@
 Dewi Ayu Nirmalasari
 
 Fish App => Using XML<br/>
-Bear App => Using Annotation
+Bear App => Using Annotation<br/>
+Lesson App => Java Conf
